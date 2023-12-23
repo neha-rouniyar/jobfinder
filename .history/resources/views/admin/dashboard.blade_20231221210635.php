@@ -1,0 +1,1 @@
+@extends('admin.adminfiles.index')
